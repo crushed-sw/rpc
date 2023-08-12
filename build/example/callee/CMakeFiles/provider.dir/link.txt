@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/provider.dir/userService.cpp.o CMakeFiles/provider.dir/__/user.pb.cc.o -o ../../../bin/provider   -L/home/crushed/cpp/rpc/lib  -Wl,-rpath,/home/crushed/cpp/rpc/lib ../../../lib/librpc.a -lprotobuf -lmuduo_net -lmuduo_base 
