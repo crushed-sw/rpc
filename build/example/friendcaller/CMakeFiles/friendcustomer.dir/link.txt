@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/friendcustomer.dir/callFriendService.cpp.o CMakeFiles/friendcustomer.dir/__/friend.pb.cc.o -o ../../../bin/friendcustomer   -L/home/crushed/cpp/rpc/lib  -Wl,-rpath,/home/crushed/cpp/rpc/lib ../../../lib/librpc.a -lprotobuf -lmuduo_net -lmuduo_base 
